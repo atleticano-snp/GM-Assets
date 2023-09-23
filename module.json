@@ -8,6 +8,6 @@
   },
   "description": "Aqui tem \n- Assets de tiles\n- Border token\n- Tokens em Geral",
   "url": "https://github.com/atleticano-snp/GM-Assets",
-  "manifest": "https://raw.githubusercontent.com/atleticano-snp/GM-Macros/v11/module.json",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/gm-assets/main/module.json",
   "download": "https://github.com/atleticano-snp/GM-Macros/archive/v11.zip"
 }
