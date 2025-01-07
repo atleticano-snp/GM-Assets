@@ -1,10 +1,10 @@
 {
   "id": "gm-assets",
   "title": "GM-Assets",
-  "version": "1.1",
+  "version": "1.2",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "description": "Aqui tem \n- Assets de tiles\n- Border token\n- Tokens em Geral",
   "url": "https://github.com/atleticano-snp/GM-Assets",
